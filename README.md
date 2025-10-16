@@ -5,7 +5,7 @@ This repository contains a beginner-friendly presentation on gravitational waves
 The presentation is meant purely as a learning resource and provides only a basic overview without technical or research-level content. It is ideal for anyone new to gravitational-wave physics.
 
 ## Files Included
-- `Gravitational_Waves_Basics.pptx`
+- `Gravitational waves.pptx`
 
 ## How to Use
 Open the PPT to explore the fundamentals of gravitational waves, understand different sources, and get a sense of how these waves are detected.
